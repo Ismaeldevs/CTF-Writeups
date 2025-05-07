@@ -16,6 +16,7 @@ Esta sala es una introducción práctica con el objetivo de enseñar los fundame
 
 ## 🏗️ Estructura del Writeup
 Este Writeup se encuentra dividido por tareas con sus respectivas respuestas y con una breve explicación de la Sala.
+
 ---
 
 ## 🥷 Autor
