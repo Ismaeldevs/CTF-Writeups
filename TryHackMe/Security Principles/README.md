@@ -16,7 +16,8 @@ Esta sala es una introducción práctica con el objetivo de enseñar los fundame
 
 ## 🏗️ Estructura del Writeup
 Este Writeup se encuentra dividido por tareas con sus respectivas respuestas y con una breve explicación de la Sala.
+
 ---
 
 ## 🥷 Autor
-[@Ismaeldev](https://www.ismaeldev.com/)git remote add origin git@github.com:User/UserRepo.git
+[@Ismaeldev](https://www.ismaeldev.com/)
