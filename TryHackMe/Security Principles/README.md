@@ -1,5 +1,5 @@
 # 🚪 Room resuelta: Security Principles
-En este repositorio vas a encontrar la solución completa del room [Security Principles](https://tryhackme.com/room/securityprinciples) de **TryHackMe**
+En este repositorio vas a encontrar la solución completa del room [Security Principles](https://tryhackme.com/room/securityprinciples) de **TryHackMe**.
 
 ## 📝 Sobre la Room
 Esta sala es una introducción práctica con el objetivo de enseñar los fundamentos de la seguridad informática, diseñada con el fin de ayudarte a comprender conceptos esenciales para proteger la información y sistemas frente a amenazas. Los temas que aprenderas son:
