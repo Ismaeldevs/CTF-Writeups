@@ -19,4 +19,4 @@ Este Writeup se encuentra dividido por tareas con sus respectivas respuestas y c
 ---
 
 ## 🥷 Autor
-[@Ismaeldev](https://www.ismaeldev.com/)
+[@Ismaeldev](https://www.ismaeldev.com/)git remote add origin git@github.com:User/UserRepo.git
