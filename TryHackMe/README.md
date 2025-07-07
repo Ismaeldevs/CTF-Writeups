@@ -15,6 +15,17 @@ Este repositorio es una recopilación de writeups completos de salas de TryHackM
 
 ---
 
+
+## 📝 Cómo Usar Este Repositorio
+
+1. **Navega por salas** según de tú interés
+2. **Sigue las rutas de aprendizaje** para un enfoque estructurado
+3. **Consulta los writeups** como referencia durante tus propios labs
+4. **Utiliza los comandos y técnicas** documentadas en tus prácticas
+
+---
+
+
 ## 🎯 Rutas de Aprendizaje Recomendadas
 
 ### 🔰 **Conceptos básicos de ciberseguridad**
@@ -62,15 +73,6 @@ Este repositorio es una recopilación de writeups completos de salas de TryHackM
 
 ---
 
-
-## 📝 Cómo Usar Este Repositorio
-
-1. **Navega por categorías** según tu área de interés
-2. **Sigue las rutas de aprendizaje** para un enfoque estructurado
-3. **Consulta los writeups** como referencia durante tus propios labs
-4. **Utiliza los comandos y técnicas** documentadas en tus prácticas
-
----
 
 ## 🤝 Contribuciones y Feedback
 
