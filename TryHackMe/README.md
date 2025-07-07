@@ -16,7 +16,7 @@ Este repositorio es una recopilación de writeups completos de salas de TryHackM
 ---
 
 
-## 📝 Cómo Usar Este Repositorio
+## 📝 Cómo usar este repositorio
 
 1. **Navega por salas** según de tú interés
 2. **Sigue las rutas de aprendizaje** para un enfoque estructurado
@@ -26,14 +26,14 @@ Este repositorio es una recopilación de writeups completos de salas de TryHackM
 ---
 
 
-## 🎯 Rutas de Aprendizaje Recomendadas
+## 📌 Ruta de aprendizaje recomendada
 
 ### 🔰 **Conceptos básicos de ciberseguridad**
 1. [Security Principles](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/1.%20Cyber%20Security%20Basics/1.%20Security%20Principles)
 2. [Governance & Regulation](https://github.com/Ismaeldevs/CTF-Writeups/tree/67ea07f29748b4c68778cad581358fc326611cb1/TryHackMe/1.%20Cyber%20Security%20Basics/2.%20Governance%20%26%20Regulation) 
 3. [Cyber Kill Chain](https://github.com/Ismaeldevs/CTF-Writeups/tree/67ea07f29748b4c68778cad581358fc326611cb1/TryHackMe/1.%20Cyber%20Security%20Basics/3.%20Cyber%20Kill%20Chain) 
 
-### 🔸 **Habilidades fundamentales**
+### 🧪 **Habilidades fundamentales**
 1. [Linux Fundamentals Part 1](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/1.%20Linux%20Fundamentals%20Part%201)
 2. [Python Basics](https://github.com/Ismaeldevs/CTF-Writeups/tree/main/TryHackMe/2.%20Fundamental%20Skills/2.%20Python%20Basics)
 3. [Common Attacks](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/3.%20Common%20Attacks)
@@ -45,7 +45,7 @@ Este repositorio es una recopilación de writeups completos de salas de TryHackM
 9. [How websites work](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/8.%20DNS%20in%20Detail)
 10. [Putting it all together](https://github.com/Ismaeldevs/CTF-Writeups/tree/08336c28174ee54a4653db64e1003663f5da763f/TryHackMe/2.%20Fundamental%20Skills/Putting%20it%20all%20together)
 
-### 🔹 **Habilidades profesionales en ciberseguridad**
+### 🎖️ **Habilidades profesionales en ciberseguridad**
 1. [Penetration Tester](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/3.%20Cyber%20Security%20Career%20Skills/Penetration%20Tester)
 2. [Security Analyst](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/3.%20Cyber%20Security%20Career%20Skills/Security%20Analyst)
 3. [Security Engineer](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/3.%20Cyber%20Security%20Career%20Skills/Security%20Engineer)
@@ -53,7 +53,7 @@ Este repositorio es una recopilación de writeups completos de salas de TryHackM
 
 ---
 
-## 🛠️ Herramientas y Tecnologías Cubiertas
+## 🛠️ Herramientas y Tecnologías cubiertas
 
 - **Reconnaissance**: Nmap, Netcat, Telnet, OSINT Tools
 - **Exploitation**: Metasploit Framework
@@ -65,7 +65,7 @@ Este repositorio es una recopilación de writeups completos de salas de TryHackM
 
 ---
 
-## 📊 Estadísticas del Repositorio
+## 📊 Estadísticas del repositorio
 
 - **Total de Salas Completadas**: 23
 - **Categorías Cubiertas**: 6
