@@ -2,7 +2,7 @@
 
 Bienvenido a mi colección de writeups de **TryHackMe**. Este repositorio contiene documentación detallada de 23 salas resueltas, organizadas por categorías temáticas para facilitar el aprendizaje y la consulta.
 
-## 📚 Sobre este Repositorio
+## 📚 Sobre este repositorio
 
 Este repositorio es una recopilación de writeups completos de salas de TryHackMe que he completado. Cada writeup incluye:
 
@@ -41,8 +41,8 @@ Este repositorio es una recopilación de writeups completos de salas de TryHackM
 5. [Network Services](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/5.%20Network%20Service)
 6. [Network Services 2](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/6.%20Network%20Service%202)
 7. [HTTP in Detail](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/7.%20HTTP%20in%20Detail)
-8. [DNS in Detail](./Active%20Reconnaissance/)
-9. [How websites work](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/8.%20DNS%20in%20Detail)
+8. [DNS in Detail](https://github.com/Ismaeldevs/CTF-Writeups/tree/9c72c058d67322d987629abeaf577423c6ff6afc/TryHackMe/2.%20Fundamental%20Skills/8.%20DNS%20in%20Detail)
+9. [How websites work](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/9.%20How%20websites%20work)
 10. [Putting it all together](https://github.com/Ismaeldevs/CTF-Writeups/tree/08336c28174ee54a4653db64e1003663f5da763f/TryHackMe/2.%20Fundamental%20Skills/Putting%20it%20all%20together)
 
 ### 🎖️ **Habilidades profesionales en ciberseguridad**
