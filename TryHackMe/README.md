@@ -18,26 +18,26 @@ Este repositorio es una recopilación de writeups completos de salas de TryHackM
 ## 🎯 Rutas de Aprendizaje Recomendadas
 
 ### 🔰 **Conceptos básicos de ciberseguridad**
-1. [Security Principles](https://github.com/Ismaeldevs/CTF-Writeups/TryHackMe/1.%20Cyber%20Security%20Basics/1.%20Security%20Principles)
+1. [Security Principles](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/1.%20Cyber%20Security%20Basics/1.%20Security%20Principles)
 2. [Governance & Regulation](https://github.com/Ismaeldevs/CTF-Writeups/tree/67ea07f29748b4c68778cad581358fc326611cb1/TryHackMe/1.%20Cyber%20Security%20Basics/2.%20Governance%20%26%20Regulation) 
 3. [Cyber Kill Chain](https://github.com/Ismaeldevs/CTF-Writeups/tree/67ea07f29748b4c68778cad581358fc326611cb1/TryHackMe/1.%20Cyber%20Security%20Basics/3.%20Cyber%20Kill%20Chain) 
 
 ### 🔸 **Habilidades fundamentales**
-1. [Linux Fundamentals Part 1](./Red%20Team%20Fundamentals/)
-2. [Python Basics](./Red%20Team%20Engagements/)
-3. [Common Attacks](./Passive%20Reconnaissance/)
-4. [What is Networking?](./Active%20Reconnaissance/)
-5. [Network Services](./Active%20Reconnaissance/)
-6. [Network Services 2](./Active%20Reconnaissance/)
-7. [HTTP in Detail](./Active%20Reconnaissance/)
+1. [Linux Fundamentals Part 1](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/1.%20Linux%20Fundamentals%20Part%201)
+2. [Python Basics](https://github.com/Ismaeldevs/CTF-Writeups/tree/main/TryHackMe/2.%20Fundamental%20Skills/2.%20Python%20Basics)
+3. [Common Attacks](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/3.%20Common%20Attacks)
+4. [What is Networking?](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/4.%20What%20is%20Networking)
+5. [Network Services](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/5.%20Network%20Service)
+6. [Network Services 2](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/6.%20Network%20Service%202)
+7. [HTTP in Detail](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/7.%20HTTP%20in%20Detail)
 8. [DNS in Detail](./Active%20Reconnaissance/)
-9. [How websites work](./Nmap/)
-10. [Putting it all together](./Metasploit%20Introduction/)
+9. [How websites work](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/8.%20DNS%20in%20Detail)
+10. [Putting it all together](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/10.%20Putting%20it%20all%20together)
 
 ### 🔹 **Habilidades profesionales en ciberseguridad**
-1. [Penetration Tester](./DFIR%20An%20introduction/)
-2. [Security Analyst](./Intro%20to%20Detection%20Engineering/)
-3. [Security Engineer](./Traffic%20Analysis%20Essentials/)
+1. [Penetration Tester](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/3.%20Cyber%20Security%20Career%20Skills/Penetration%20Tester)
+2. [Security Analyst](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/3.%20Cyber%20Security%20Career%20Skills/Security%20Analyst)
+3. [Security Engineer](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/3.%20Cyber%20Security%20Career%20Skills/Security%20Engineer)
 
 
 ---
