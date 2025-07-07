@@ -32,7 +32,7 @@ Este repositorio es una recopilación de writeups completos de salas de TryHackM
 7. [HTTP in Detail](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/7.%20HTTP%20in%20Detail)
 8. [DNS in Detail](./Active%20Reconnaissance/)
 9. [How websites work](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/8.%20DNS%20in%20Detail)
-10. [Putting it all together](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/2.%20Fundamental%20Skills/10.%20Putting%20it%20all%20together)
+10. [Putting it all together](https://github.com/Ismaeldevs/CTF-Writeups/tree/08336c28174ee54a4653db64e1003663f5da763f/TryHackMe/2.%20Fundamental%20Skills/Putting%20it%20all%20together)
 
 ### 🔹 **Habilidades profesionales en ciberseguridad**
 1. [Penetration Tester](https://github.com/Ismaeldevs/CTF-Writeups/tree/a947f3e69f938a5fb24fc2a39c19483b63ad4575/TryHackMe/3.%20Cyber%20Security%20Career%20Skills/Penetration%20Tester)
