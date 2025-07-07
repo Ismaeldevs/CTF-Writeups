@@ -18,9 +18,9 @@ Este repositorio es una recopilación de writeups completos de salas de TryHackM
 ## 🎯 Rutas de Aprendizaje Recomendadas
 
 ### 🔰 **Conceptos básicos de ciberseguridad**
-1. [Security Principles](./Security%20Principles/)
-2. [Governance & Regulation](./Pentesting%20Fundamentals/) 
-3. [Cyber Kill Chain](./Junior%20Security%20Analyst%20Intro/) 
+1. [Security Principles](https://github.com/Ismaeldevs/CTF-Writeups/TryHackMe/1.%20Cyber%20Security%20Basics/1.%20Security%20Principles)
+2. [Governance & Regulation](https://github.com/Ismaeldevs/CTF-Writeups/tree/67ea07f29748b4c68778cad581358fc326611cb1/TryHackMe/1.%20Cyber%20Security%20Basics/2.%20Governance%20%26%20Regulation) 
+3. [Cyber Kill Chain](https://github.com/Ismaeldevs/CTF-Writeups/tree/67ea07f29748b4c68778cad581358fc326611cb1/TryHackMe/1.%20Cyber%20Security%20Basics/3.%20Cyber%20Kill%20Chain) 
 
 ### 🔸 **Habilidades fundamentales**
 1. [Linux Fundamentals Part 1](./Red%20Team%20Fundamentals/)
