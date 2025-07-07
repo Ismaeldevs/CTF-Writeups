@@ -1,6 +1,6 @@
 # 🎯 TryHackMe Writeups Collection
 
-Bienvenido a mi colección de writeups de **TryHackMe**. Este repositorio contiene documentación detallada de 23 salas resueltas, organizadas por categorías temáticas para facilitar el aprendizaje y la consulta.
+Bienvenido a mi colección de writeups de **TryHackMe**. Este repositorio contiene documentación detallada de 37 salas resueltas, organizadas por categorías temáticas para facilitar el aprendizaje y la consulta.
 
 ## 📚 Sobre este repositorio
 
