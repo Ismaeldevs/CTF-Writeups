@@ -82,12 +82,7 @@ Si encuentras algún error, tienes sugerencias de mejora, o quieres discutir alg
 - Enviar un **Pull Request** con correcciones
 - Contactarme directamente para discusiones técnicas
 
----
-
-## 📄 Licencia
-
-Este repositorio está bajo la licencia MIT. Puedes usar, modificar y distribuir el contenido libremente, siempre que mantengas la atribución correspondiente.
 
 ---
 
-⭐ **¡Si este repositorio te ha sido útil, considera darle una estrella para apoyar el contenido!**
+> ⭐ **¡Si este repositorio te ha sido útil, considera darle una estrella para apoyar el contenido!**
