@@ -68,8 +68,8 @@ Este repositorio es una recopilación de writeups completos de salas de TryHackM
 ## 📊 Estadísticas del repositorio
 
 - **Total de Salas Completadas**: 23
-- **Categorías Cubiertas**: 6
-- **Nivel de Dificultad**: Principiante a Intermedio
+- **Categorías Cubiertas**: 5
+- **Nivel de Dificultad**: Principiante
 
 ---
 
